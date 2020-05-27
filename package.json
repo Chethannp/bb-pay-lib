@@ -11,9 +11,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "git+https://github.com/Chethannp/bb-pay-lib.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@dalenguyen"
+    "registry": "https://npm.pkg.github.com/@chethannp"
   }
 }
