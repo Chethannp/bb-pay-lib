@@ -1,0 +1,19 @@
+{
+  "name": "bb-pay-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "keywords": [],
+  "author": "Chethan N. P",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@dalenguyen"
+  }
+}
