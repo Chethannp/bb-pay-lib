@@ -1,6 +1,6 @@
 {
-  "name": "bb-pay-lib",
-  "version": "1.0.0",
+  "name": "@chethannp/bb-pay-lib",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/bundle.js",
   "scripts": {
